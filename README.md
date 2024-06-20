@@ -3,6 +3,8 @@
 Este é um projeto desenvolvido usando Micronaut, Java, JPA, Hibernate e Lombok. O objetivo deste projeto é criar um sistema de gerenciamento de problemas, casos de teste e submissões de soluções.
 
 ## Endpoints da API
+## Swagger
+http://localhost:8080/swagger-ui
 
 ### Problemas
 
